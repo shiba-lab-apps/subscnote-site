@@ -1,6 +1,6 @@
 # subscnote-site
 
-サブスクノートの GitHub Pages 用サイトです。
+サブスクノートの App Store 公開向け GitHub Pages サイトです。
 
 ## Files
 - index.html
